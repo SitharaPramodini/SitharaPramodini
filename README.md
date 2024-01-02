@@ -55,7 +55,7 @@
 </table>
 <br>
 
-<h3 align="center">Language and Tools </h3>
+<h3 align="center">Languages and Tools </h3>
 <p style="display: inline-block;" align="center">
   <kbd>
     <kbd>Programming Languages</kbd>
