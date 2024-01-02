@@ -1,6 +1,12 @@
 ![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=ddaf00&size=30&lines=Hey!+I'm+Sithara+Pramodini+!;I'm+a+Web+Developer;)](https://git.io/typing-svg)
+<p align="center">
+ <img
+   src="https://komarev.com/ghpvc/?username=SitharaPramodini&label=Profile%20views&color=0e75b6&style=flat"  
+   alt="sithara-pramodini"
+ />
+</p>
 
 <table align="center">
  <tr border="none">
@@ -47,3 +53,21 @@
   </td>
  </tr>
 </table>
+<br><br>
+<h3 align="center">About Some Stats </h3>
+
+<div>
+ <div align="center">
+   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SitharaPramodini&layout=compact&show_icon=true&theme=algolia" alt="tienhuynh-tn-langs"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/?username=SitharaPramodini&layout=compact&show_icon=true&theme=algolia" alt="tienhuynh-tn-stats"/>
+ </div>
+
+</div>
+
+<br>
+
+<div align="center">
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=SitharaPramodini&theme=algolia&background=0d1117&hide_border=true" />
+</div>
+
+
