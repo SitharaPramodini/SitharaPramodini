@@ -53,7 +53,9 @@
   </td>
  </tr>
 </table>
-<br><br>
+<br>
+
+<h3 align="center">Language and Tools </h3>
 <p style="display: inline-block;" align="center">
   <kbd>
     <kbd>Programming Languages</kbd>
@@ -108,7 +110,7 @@
     <img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
   </kbd>
 </p>
-<br><br>
+<br>
 
 <h3 align="center">About Some Stats </h3>
 <div>
