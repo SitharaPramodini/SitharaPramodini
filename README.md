@@ -54,24 +54,6 @@
  </tr>
 </table>
 <br><br>
-<h3 align="center">About Some Stats </h3>
-
-<div>
- <div align="center">
-   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SitharaPramodini&layout=compact&show_icon=true&theme=algolia" alt="tienhuynh-tn-langs"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/?username=SitharaPramodini&layout=compact&show_icon=true&theme=algolia" alt="tienhuynh-tn-stats"/>
- </div>
-
-</div>
-
-<br>
-
-<div align="center">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=SitharaPramodini&theme=algolia&background=0d1117&hide_border=true" />
-</div>
-
-<br><br>
-
 <h3 align="center">Languages and Tools ⚙️</h3><br>
 <p align="center">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://developer.android.com" target="_blank" rel="noreferre">
@@ -213,5 +195,25 @@
      width="40"
      height="40"
    /> </a>
+<br><br>
+<h3 align="center">About Some Stats </h3>
+
+<div>
+ <div align="center">
+   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SitharaPramodini&layout=compact&show_icon=true&theme=algolia" alt="tienhuynh-tn-langs"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/?username=SitharaPramodini&layout=compact&show_icon=true&theme=algolia" alt="tienhuynh-tn-stats"/>
+ </div>
+
+</div>
+
+<br>
+
+<div align="center">
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=SitharaPramodini&theme=algolia&background=0d1117&hide_border=true" />
+</div>
+
+<br><br>
+
+
 
 
