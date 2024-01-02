@@ -54,147 +54,61 @@
  </tr>
 </table>
 <br><br>
-<h3 align="center">Languages and Tools ⚙️</h3><br>
-<p align="center">
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://developer.android.com" target="_blank" rel="noreferre">
-   <img
-     src="https://github.com/Scar1109/skill-icons/blob/main/icons/AndroidStudio-Light.svg"
-     alt="android"
-     width="40"
-     height="40"
-   /> </a
- >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
- <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-   <img
-     src="https://github.com/Scar1109/skill-icons/blob/main/icons/Bootstrap.svg"
-     alt="bootstrap"
-     width="40"
-     height="40"
-   /> </a
- >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
- <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-   <img
-     src="https://github.com/Scar1109/skill-icons/blob/main/icons/C.svg"
-     alt="c"
-     width="40"
-     height="40"
-   /> </a
- >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
- <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-   <img
-     src="https://github.com/Scar1109/skill-icons/blob/main/icons/CPP.svg"
-     alt="cplusplus"
-     width="40"
-     height="40"
-   /> </a
- >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
- <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-   <img
-     src="https://github.com/Scar1109/skill-icons/blob/main/icons/CSS.svg"
-     alt="css3"
-     width="40"
-     height="40"
-   /> </a
- >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
- <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-   <img
-     src="https://github.com/Scar1109/skill-icons/blob/main/icons/ExpressJS-Light.svg"
-     alt="express"
-     width="40"
-     height="40"
-   /> </a
- >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
- <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-   <img
-     src="https://github.com/Scar1109/skill-icons/blob/main/icons/Figma-Light.svg"
-     alt="figma"
-     width="40"
-     height="40"
-   /> </a
- >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
- <a href="https://flutter.dev" target="_blank" rel="noreferrer">
-   <img
-     src="https://github.com/Scar1109/skill-icons/blob/main/icons/Flutter-Light.svg"
-     alt="flutter"
-     width="40"
-     height="40"
-   /> </a
- ><br /><br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
- <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-   <img
-     src="https://github.com/Scar1109/skill-icons/blob/main/icons/HTML.svg"
-     alt="html5"
-     width="40"
-     height="40"
-   /> </a
- >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
- <a href="https://www.java.com" target="_blank" rel="noreferrer">
-   <img
-     src="https://github.com/Scar1109/skill-icons/blob/main/icons/Java-Light.svg"
-     alt="java"
-     width="40"
-     height="40"
-   /> </a
- >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
- <a
-   href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
-   target="_blank"
-   rel="noreferrer"
- >
-   <img
-     src="https://github.com/Scar1109/skill-icons/blob/main/icons/JavaScript.svg"
-     alt="javascript"
-     width="40"
-     height="40"
-   /> </a
- >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
- <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-   <img
-     src="https://github.com/Scar1109/skill-icons/blob/main/icons/MongoDB.svg"
-     alt="mongodb"
-     width="40"
-     height="40"
-   /> </a
- >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
- <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-   <img
-     src="https://github.com/Scar1109/skill-icons/blob/main/icons/MySQL-Light.svg"
-     alt="mysql"
-     width="40"
-     height="40"
-   /> </a
- >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
- <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-   <img
-     src="https://github.com/Scar1109/skill-icons/blob/main/icons/NodeJS-Light.svg"
-     alt="nodejs"
-     width="40"
-     height="40"
-   /> </a
- >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
- <a href="https://www.php.net" target="_blank" rel="noreferrer">
-   <img
-     src="https://github.com/Scar1109/skill-icons/blob/main/icons/PHP-Light.svg"
-     alt="php"
-     width="40"
-     height="40"
-   /> </a
- >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
- <a href="https://www.python.org" target="_blank" rel="noreferrer">
-   <img
-     src="https://github.com/Scar1109/skill-icons/blob/main/icons/Python-Light.svg"
-     alt="python"
-     width="40"
-     height="40"
-   /> </a
- >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
- <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-   <img
-     src="https://github.com/Scar1109/skill-icons/blob/main/icons/React-Light.svg"
-     alt="react"
-     width="40"
-     height="40"
-   /> </a>
+<p style="display: inline-block;" align="center">
+  <kbd>
+    <kbd>Programming Languages</kbd>
+    <br>
+    <br>
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" /> 
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" /> 
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" /> 
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" /> 
+  </kbd>
+  <kbd>
+    <kbd>Back-end</kbd>
+    <br>
+    <br>
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-plain.svg" />
+  </kbd>
+   <kbd>
+    <kbd>Mobile</kbd>
+    <br>
+    <br>
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-plain.svg" />
+  </kbd>
+  <kbd>
+    <kbd>Front-end</kbd>
+    <br>
+    <br>
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> 
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" /> 
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" /> 
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain.svg" />
+  </kbd>
+  <kbd>
+    <kbd>Database</kbd>
+    <br>
+    <br>
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg" />
+  </kbd>
+   <kbd>
+    <kbd>Tools</kbd>
+    <br>
+    <br>
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
+  </kbd>
+</p>
 <br><br>
 <h3 align="center">About Some Stats </h3>
 
