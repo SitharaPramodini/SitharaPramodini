@@ -58,56 +58,47 @@
 <h3 align="center">Languages and Tools </h3>
 <p style="display: inline-block;" align="center">
   <kbd>
-    <kbd>Programming Languages</kbd>
-    <br>
-    <br>
-    <img width="35px" src="https://github.com/Scar1109/skill-icons/blob/main/icons/Python-Light.svg" /> 
-    <img width="35px" src="https://github.com/Scar1109/skill-icons/blob/main/icons/Java-Light.svg" /> 
-    <img width="35px" src="https://github.com/Scar1109/skill-icons/blob/main/icons/C.svg" /> 
-  </kbd>
-  <kbd>
     <kbd>Back-end</kbd>
     <br>
     <br>
-    <img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
-    <img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" />
-    <img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" />
-    <img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-plain.svg" />
+    <img width="35px" src="https://github.com/Scar1109/skill-icons/blob/main/icons/ExpressJS-Light.svg" />
+    <img width="35px" src="https://github.com/Scar1109/skill-icons/blob/main/icons/Python-Light.svg" />
+    <img width="35px" src="https://github.com/Scar1109/skill-icons/blob/main/icons/NodeJS-Light.svg" />
+    <img width="35px" src="https://github.com/Scar1109/skill-icons/blob/main/icons/Java-Light.svg" />
+     <img width="35px" src="https://github.com/Scar1109/skill-icons/blob/main/icons/PHP-Light.svg" />
   </kbd>
    <kbd>
     <kbd>Mobile</kbd>
     <br>
     <br>
-    <img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />
-    <img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-plain.svg" />
+    <img width="35px" src="https://github.com/Scar1109/skill-icons/blob/main/icons/AndroidStudio-Light.svg" />
+    <img width="35px" src="https://github.com/Scar1109/skill-icons/blob/main/icons/Kotlin-Light.svg" />
   </kbd>
   <kbd>
     <kbd>Front-end</kbd>
     <br>
     <br>
-    <img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> 
-    <img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" /> 
-    <img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" /> 
-    <img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
-    <img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-    <img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain.svg" />
+    <img width="35px" src="https://github.com/Scar1109/skill-icons/blob/main/icons/React-Light.svg" /> 
+    <img width="35px" src="https://github.com/Scar1109/skill-icons/blob/main/icons/HTML.svg" /> 
+    <img width="35px" src="https://github.com/Scar1109/skill-icons/blob/main/icons/CSS.svg" /> 
+    <img width="35px" src="https://github.com/Scar1109/skill-icons/blob/main/icons/JavaScript.svg" />
+    <img width="35px" src="https://github.com/Scar1109/skill-icons/blob/main/icons/Bootstrap.svg" />
   </kbd>
   <kbd>
     <kbd>Database</kbd>
     <br>
     <br>
-    <img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" />
-    <img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" />
-    <img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg" />
+    <img width="35px" src="https://github.com/Scar1109/skill-icons/blob/main/icons/MongoDB.svg" />
+    <img width="35px" src="https://github.com/Scar1109/skill-icons/blob/main/icons/MySQL-Light.svg" />
   </kbd>
    <kbd>
     <kbd>Tools</kbd>
     <br>
     <br>
-    <img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-    <img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" />
-    <img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" />
-    <img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
+    <img width="35px" src="https://github.com/Scar1109/skill-icons/blob/main/icons/Figma-Light.svg" />
+    <img width="35px" src="https://github.com/Scar1109/skill-icons/blob/main/icons/VSCode-Light.svg" />
+    <img width="35px" src="https://github.com/Scar1109/skill-icons/blob/main/icons/Eclipse-Light.svg" />
+    <img width="35px" src="https://github.com/Scar1109/skill-icons/blob/main/icons/Github-Light.svg" />
   </kbd>
 </p>
 <br>
