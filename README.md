@@ -12,7 +12,7 @@
  <tr border="none">
   <td width="70%" align="left">
   
-- 🧐   Interested in full stack. Recent focus on Frontend.
+- 🧐   Interested in full stack.
 
 - 🎓   Bachelor of Science in Software Engineering.
 
